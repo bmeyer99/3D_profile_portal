@@ -25,6 +25,16 @@ Create a web application where users can share and compare their 3D printer prof
 * Users can follow other users to stay updated on their activity
 * Relationship.js or Follow.js for implementing the follow feature
 
+### Profile Attributes
+
+* Capture user-defined attributes for 3D models, such as:
+    + Long bridge detection
+    + Ironing settings
+    + Support material usage
+    + Print speed and temperature
+* Store these attributes along with the uploaded profile
+* Display attribute values in a user-friendly format on the profile page
+
 ### Image and Video Gallery
 
 * Use PhotoSwipe or similar library for responsive image galleries
